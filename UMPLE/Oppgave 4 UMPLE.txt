@@ -1,0 +1,18 @@
+Generert Java-kode:
+
+Den genererte java-koden tar ikke høyde for metoder som kobler sammen klassene.
+
+Det er også kommet mange metoder og verdier som ikke vi har bruk for.
+
+
+
+Generert SQL-kode:
+
+SQL-koden har ett table for hver klasse, dette hadde vi ikke bruk for.
+Ellers veldig lik.
+
+
+Generert JSON-kode:
+
+Den har generert mye overflødig kode for "tables" vi ikke bruker, samt overflødige "traceColors" og lignende.  
+Kunne vært ett bra alternativ hvis vi skjønte mer av det.
